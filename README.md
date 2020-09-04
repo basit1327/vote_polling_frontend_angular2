@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
 ## Installing NPM Packages
-#### run <npm install> in the root directory to install the required npm packages for the first time
+#### run 'npm install' in the root directory to install the required npm packages for the first time
 
 ### Config
 
